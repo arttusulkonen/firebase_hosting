@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "warning-ja-success": {
+      "hosting": {
+        "warning-ja-success": [
+          "warning-ja-success"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "warning-ja-success"
+  }
+}
