@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kahvila-56710": {
+      "hosting": {
+        "kahvila": [
+          "kahvila-56710"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kahvila-56710"
+  }
+}
