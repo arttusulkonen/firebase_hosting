@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "sovella-ng-directives-2b969": {
+      "hosting": {
+        "sovella-ng-directives": [
+          "sovella-ng-directives-2b969"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "sovella-ng-directives-2b969"
+  }
+}
