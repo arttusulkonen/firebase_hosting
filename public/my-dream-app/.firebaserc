@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "my-dream-app-bc": {
+      "hosting": {
+        "my-dream-app": [
+          "my-dream-app-bc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "my-dream-app-bc"
+  }
+}

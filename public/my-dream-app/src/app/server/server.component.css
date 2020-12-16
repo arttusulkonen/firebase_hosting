@@ -1,0 +1,10 @@
+.app-server{
+  background-color: lightgrey;
+}
+.app-server * {
+  color: black;
+}
+.online {
+  border: 5px bisque double;
+}
+
